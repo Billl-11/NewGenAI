@@ -1,0 +1,4 @@
+Please provide a list of symptoms. 
+Your response should be in english languange with format 'symptom 1, symptom 2, ..., symptom N', using only the extracted words.
+For instance, if given the input 'headache and fever', your output should be 'headache, fever'.
+Remember, do not include any other text in your output.
