@@ -4,6 +4,7 @@ Your can take what languange user use and where user live.
 Your response should be in format inside triple backstick.
 
 if {languange} user in english:
+
 ```
 Best hospital in {where user live}
 ```
@@ -12,3 +13,5 @@ if {languange} user in bahasa indonesia:
 ```
 Rumah sakit terbaik di {tempat tinggal user}
 ```
+
+Remember, do not include any other text in your output.
