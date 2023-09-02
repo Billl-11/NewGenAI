@@ -1,0 +1,15 @@
+dampak sosial:
+- org2 yg ingin curhat ttg pnyakitnya
+- prediksi pnyakit dilakukan menggunaan model deeplearning sehingg konsistensi hasil prediksi bagus dan brdasarkan data yang sudah ada
+- produk mampu memberikan informasi rumah sakit didaerah user
+- produk bisa brkomunikasi dngn baik ke user
+- memmenuhi kbutuhan global karena produkk mampu brbahasa banyak bahkan bahasa daerah dimana ini sulit diraih dr mncari informasi mlalui google biasa
+
+orisinalitas:
+- healthwise memanfaatkan teknologi superior LLM yg diintegrasikan dengan model deeplearning untuk diagnosis pnyakit brdasarkan dataset yg dimiiki sehingga produk mampu mnyusaikan brdasarkan dataset pribadi masing2
+- produk ini selain membrikan diagnosis jg memebrikan summary sehingga mmbantu user untuk melakukan konsultasi lngsng dengan dokter
+- selain itu, produk ini jg mampu memberikan rumah sakit dan informasi trkait RS di daerah user
+
+
+latar depan:
+- genz yg malas/bingung mnnayakan penyakit nya brdasarkan gejala, genz cenderung mencari informasi pnyakit di google dimana hasil ini bisa tidak konsisten, sehingga LLM dibuat dngn integrasi deeplearning shingga prediksi konsisten brdasarkan data
