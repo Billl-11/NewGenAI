@@ -8,12 +8,14 @@ WORKDIR /app
 COPY . /app
 
 RUN pip install pip==23.2.1
-RUN pip install tensorflow==2.12.0
-RUN pip install langchain==0.0.259
+RUN pip install tensorflow==2.13.0
+RUN pip install langchain==0.0.279
 RUN pip install tiktoken==0.4.0
 RUN pip install openai==0.27.8
 RUN pip install transformers==4.32.1
-RUN pip install gradio==3.39.0
+RUN pip install gradio==3.42.0
+RUN pip install pandas==1.5.2
+RUN pip install pytz==2022.6
 
 EXPOSE 7864
 
