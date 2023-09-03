@@ -258,5 +258,5 @@ with gr.Blocks(theme=gr.themes.Soft()) as iface:
 
 gr.close_all()
 # iface.launch(debug=True)
-iface.launch(server_name = '0.0.0.0',server_port = 7864,debug=True)
+iface.launch(server_name = '0.0.0.0',server_port = 7864,debug=True, show_api==False )
 
