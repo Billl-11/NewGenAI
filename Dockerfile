@@ -16,6 +16,7 @@ RUN pip install transformers==4.32.1
 RUN pip install gradio==3.42.0
 RUN pip install pandas==1.5.2
 RUN pip install pytz==2022.6
+RUN pip install google-api-python-client==2.84.0
 
 EXPOSE 7864
 
