@@ -1,5 +1,3 @@
-
-
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chat_models import AzureChatOpenAI, ChatOpenAI
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
