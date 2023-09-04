@@ -5,9 +5,7 @@ NewGenAI Team Member:
 1. Maulaya Radhibilla
 2. Muhammad Surya Sanjiwani
 
-3. # HealthWise AI - New Generation AI-Powered Healthcare Conversations
-
-![HealthWise AI Logo](https://drive.google.com/file/d/16YZ3HRuHLVYrQ503Oktw-N7MCIHUlRCl/view?usp=sharing)
+# HealthWise AI - New Generation AI-Powered Healthcare Conversations
 
 ## Daftar Isi
 
@@ -21,7 +19,7 @@ NewGenAI Team Member:
 
 ## Ikhtisar
 
-HealthWise AI adalah chatbot perawatan kesehatan revolusioner yang ditenagai oleh Model Bahasa Superior (LSM), terintegrasi dengan kemampuan deep learning. Chatbot ini bertujuan untuk memberikan pengalaman percakapan yang mirip manusia, memungkinkan pengguna untuk menggambarkan gejala mereka seolah-olah mereka sedang berbicara dengan teman yang dipercaya. Tujuan utamanya adalah untuk mengatasi kebingungan, frustrasi, dan informasi yang salah yang seringkali dihadapi ketika individu mencari informasi kesehatan secara online.
+HealthWise AI adalah chatbot perawatan kesehatan revolusioner yang ditenagai oleh Large Languange Model (LLM), terintegrasi dengan kemampuan deep learning. Chatbot ini bertujuan untuk memberikan pengalaman percakapan yang mirip manusia, memungkinkan pengguna untuk menggambarkan gejala mereka seolah-olah mereka sedang berbicara dengan teman yang dipercaya. Tujuan utamanya adalah untuk mengatasi kebingungan, frustrasi, dan serta mencari informasi kesehatan secara online.
 
 ## Fitur-fitur
 
@@ -33,15 +31,15 @@ HealthWise AI adalah chatbot perawatan kesehatan revolusioner yang ditenagai ole
 
 - **Dukungan Multibahasa:** Chatbot ini mampu berbicara dalam berbagai bahasa, termasuk dialek regional, membuat informasi perawatan kesehatan dapat diakses oleh beragam komunitas.
 
-- **Pembaruan Terus-menerus:** Kami secara rutin memperbarui model kami dengan informasi medis terbaru untuk memastikan relevansi dan keandalan.
+- **Pembaruan Terus-menerus:** Data dapat secara rutin diperbarui informasi medis terbaru untuk memastikan relevansi dan keandalan.
 
 ## Teknologi
 
 HealthWise AI memanfaatkan teknologi deep learning terkini untuk memberikan diagnosis yang akurat dan percakapan mirip manusia. Teknologi inti termasuk:
 
-- **Model Bahasa Superior (LSM):** Chatbot kami ditenagai oleh LSM, yang memungkinkannya untuk memahami dan merespons pengguna dengan kefasihan dalam bahasa alami.
+- **Large Languange Model (LLM):** Chatbot kami ditenagai oleh LLM GPT 3.5-turbo, yang memungkinkannya untuk memahami dan merespons pengguna dengan kefasihan dalam bahasa alami.
 
-- **Deep Learning:** Teknik deep learning digunakan untuk menganalisis masukan pengguna dan membandingkannya dengan basis data informasi medis yang luas.
+- **Deep Learning:** Teknik deep learning digunakan untuk menganalisis masukan pengguna dan membandingkannya dengan basis data informasi .
 
 ## Mengapa HealthWise AI
 
@@ -53,25 +51,6 @@ Inilah mengapa HealthWise AI unggul:
 
 - **Akses Global:** HealthWise AI dapat berkomunikasi dalam berbagai bahasa, mengatasi kebutuhan global akan informasi perawatan kesehatan yang dapat diandalkan.
 
-- **Pembaruan Terus-menerus:** Kami memastikan model kami selalu terupdate dengan pengetahuan medis terbaru, memastikan relevansi dan keandalan.
-
 ## Memulai
 
-Untuk mulai menggunakan HealthWise AI, ikuti langkah-langkah berikut:
-
-1. Klon repositori ini ke mesin lokal Anda.
-2. Instal dependensi yang diperlukan dengan menjalankan `npm install` (atau manajer paket yang Anda preferensikan).
-3. Jalankan aplikasi dengan `npm start`.
-4. Akses chatbot melalui URL yang disediakan.
-
-## Berkontribusi
-
-Kami menyambut kontribusi dari komunitas untuk meningkatkan HealthWise AI. Jangan ragu untuk fork repositori ini, melakukan perubahan, dan mengirimkan pull request. Silakan ikuti [pedoman kontribusi kami](CONTRIBUTING.md) untuk informasi lebih lanjut.
-
-## Lisensi
-
-HealthWise AI dilisensikan di bawah [Lisensi MIT](LICENSE). Anda bebas untuk menggunakan, mengubah, dan mendistribusikan perangkat lunak ini sesuai dengan ketentuan lisensi.
-
----
-
-Silakan sesuaikan `readme.md` ini sesuai dengan detail khusus proyek HealthWise AI Anda. Sertakan informasi tambahan, seperti petunjuk instalasi, persyaratan sistem, atau panduan penggunaan khusus, sesuai kebutuhan presentasi pitch Anda.
+Untuk mulai menggunakan HealthWise AI, kunjungi http://healthwiseai.site/
