@@ -14,8 +14,6 @@ NewGenAI Team Member:
 - [Teknologi](#teknologi)
 - [Mengapa HealthWise AI](#mengapa-healthwise-ai)
 - [Memulai](#memulai)
-- [Berkontribusi](#berkontribusi)
-- [Lisensi](#lisensi)
 
 ## Ikhtisar
 
