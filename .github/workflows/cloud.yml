@@ -7,7 +7,7 @@ on:
 
 env:
   PROJECT_ID: ${{ secrets.CLOUD_RUN_PROJECT_NAME }}
-  REGION: asia-southeast2
+  REGION: asia-southeast1
   REPO_NAME: healthwise
   
 jobs:
