@@ -33,19 +33,19 @@ warnings.filterwarnings("ignore")
 
 load_dotenv()
 
-embeddings_openai = OpenAIEmbeddings(openai_api_key = os.environ.get("API_KEY"))
+embeddings_openai = OpenAIEmbeddings(openai_api_key = "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")
 
-llm_openai = ChatOpenAI(openai_api_key = os.environ.get("API_KEY"),
+llm_openai = ChatOpenAI(openai_api_key = "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",
                         temperature=0,
                         )
 
 """# Tensorflow model"""
 
 # version 1 - GPU only
-# model = load_model('./Deeplearning NLP/model/model_ver1.h5')
+model = load_model('./Deeplearning NLP/model/model_ver1.h5')
 
 # version 2
-model = load_model('./Deeplearning NLP/model/model_clinicalbert-ver2.h5', custom_objects={"TFBertModel": transformers.TFBertModel})
+# model = load_model('./Deeplearning NLP/model/model_clinicalbert-ver2.h5', custom_objects={"TFBertModel": transformers.TFBertModel})
 
 from transformers import AutoTokenizer
 Tokenizer = AutoTokenizer.from_pretrained("emilyalsentzer/Bio_ClinicalBERT",do_lower_case=True)
