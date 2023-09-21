@@ -33,9 +33,9 @@ warnings.filterwarnings("ignore")
 
 load_dotenv()
 
-embeddings_openai = OpenAIEmbeddings(openai_api_key = "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")
+embeddings_openai = OpenAIEmbeddings(openai_api_key = os.environ.get("API_KEY"))
 
-llm_openai = ChatOpenAI(openai_api_key = "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",
+llm_openai = ChatOpenAI(openai_api_key = os.environ.get("API_KEY"),
                         temperature=0,
                         )
 
