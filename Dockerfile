@@ -20,6 +20,6 @@ RUN pip install google-api-python-client==2.84.0
 RUN pip install googlemaps==4.10.0
 RUN pip install python-dotenv==1.0.0
 
-EXPOSE 7864
+EXPOSE 8080
 
 CMD ["python3", "healthwise.py"]
