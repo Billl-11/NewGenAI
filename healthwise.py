@@ -42,10 +42,10 @@ llm_openai = ChatOpenAI(openai_api_key = os.environ.get("API_KEY"),
 """# Tensorflow model"""
 
 # version 1 - GPU only
-model = load_model('./Deeplearning NLP/model/model_ver1.h5')
+# model = load_model('./Deeplearning NLP/model/model_ver1.h5')
 
 # version 2
-# model = load_model('./Deeplearning NLP/model/model_clinicalbert-ver2.h5', custom_objects={"TFBertModel": transformers.TFBertModel})
+model = load_model('./Deeplearning NLP/model/model_clinicalbert-ver2.h5', custom_objects={"TFBertModel": transformers.TFBertModel})
 
 from transformers import AutoTokenizer
 Tokenizer = AutoTokenizer.from_pretrained("emilyalsentzer/Bio_ClinicalBERT",do_lower_case=True)
