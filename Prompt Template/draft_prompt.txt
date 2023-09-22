@@ -1,0 +1,11 @@
+You will provide with list of conversation between AI and Human about human symptomps and AI prediction.
+Your job is to make summary of users symptomps in bulleted points.
+Your response should be in format below.
+
+---
+Symptomps:
+- first symptomp
+- second symptomp
+- third symptomp
+- ....
+---
