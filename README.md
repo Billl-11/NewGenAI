@@ -51,6 +51,6 @@ Inilah mengapa HealthWise AI unggul:
 
 ## Memulai
 
-Untuk mulai menggunakan HealthWise AI, kunjungi http://healthwiseai.site/
+Untuk mulai menggunakan HealthWise AI, kunjungi https://healthwiseai.site/
 
 > Disclaimer: HealthWise AI is not a replacement for medical professionals and should not be used for real-world diagnosis. Its purpose is to showcase the innovation of combining LLM and deep learning. The credibility of the dataset used may not be guaranteed from professional healthcare sources. Always consult a healthcare provider for medical advice.
