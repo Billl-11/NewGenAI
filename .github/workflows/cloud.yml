@@ -3,7 +3,7 @@ name: HealthWise-AI
 on:
   push:
     branches:
-      - main
+      - deploy
 
 env:
   PROJECT_ID: ${{ secrets.CLOUD_RUN_PROJECT_NAME }}
